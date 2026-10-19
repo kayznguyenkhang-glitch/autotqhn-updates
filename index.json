@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "generatedUtc": "2026-10-19T13:32:08.5658037+00:00",
+  "packs": [
+    {
+      "file": "a38406fdcff20e66128752643eee0a20.tqcompat.json",
+      "build": "a38406fdcff20e66128752643eee0a20.wasm.unityweb",
+      "revision": 1,
+      "engine": 2,
+      "sha256": "a621ae54a0e81a287edb564921e9e1daf71d7828a07218609109fbc5902a6fe9"
+    },
+    {
+      "file": "bc6523b10df5bbecf33d3ee7710a384b.tqcompat.json",
+      "build": "bc6523b10df5bbecf33d3ee7710a384b.wasm.unityweb",
+      "revision": 1,
+      "engine": 2,
+      "sha256": "6480bfb195b2754b269ca5186b2e1593bb53ee1afc0cd79b7de86c63cb337cc3"
+    }
+  ]
+}
