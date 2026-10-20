@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "generatedUtc": "2026-10-20T06:21:48.3526554+00:00",
+  "generatedUtc": "2026-10-20T06:24:35.9558056+00:00",
   "packs": [
     {
       "file": "725d0f4939b66fce8dfaa5c59a80805c.tqcompat.json",
       "build": "725d0f4939b66fce8dfaa5c59a80805c.wasm.unityweb",
-      "revision": 1,
+      "revision": 2,
       "engine": 2,
-      "sha256": "1ddc5b3cd3b5898bbc01bf564aaa78e66bed66b6c5c2a37c25d5c083a70587b3"
+      "sha256": "154372365a4dba0b5ed9fb06c78f62f7ca8c6c2960d653d91894572d4a12bf2e"
     },
     {
       "file": "a38406fdcff20e66128752643eee0a20.tqcompat.json",
